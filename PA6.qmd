@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Jack Fedota, Natalie Storz, Bernardo Bernal
 format: html
 editor: visual
 embed-resources: true
